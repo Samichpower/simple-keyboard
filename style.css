@@ -24,6 +24,10 @@ kbd {
   display: block;
 }
 
+span {
+  font-size: 10px;
+}
+
 
 .sharp {
   background-color: black;
